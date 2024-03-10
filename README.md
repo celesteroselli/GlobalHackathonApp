@@ -1,7 +1,9 @@
 # GlobalHackathonApp
-**Welcome to our submission to the Virtual/Uber Global Hackathon!**
+***Welcome to our submission to the Virtual/Uber Global Hackathon!**
 
 **Green, your eco-friendly ride rewarded.**
+
+**Check out our proposal [here](https://docs.google.com/document/d/1hz0lwJxXz5Xwg_nQZ7-8e3-nqn2uWpPR6Q30cFRqYzg/edit)
 
 Green is a revolutionary new way for cities to incentivize environmentally-friendly transportation.
 Green will reward users with Green Points. Green Points are a virtual currency within the app that can be used as discounts at participating sustainable small buisnesses throughout any city with Green.
